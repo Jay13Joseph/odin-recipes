@@ -1,0 +1,20 @@
+.recipe-name {
+  text-align: center;
+  background-color: red;
+  color: white;
+  font-size: 36px;
+  font-family: 'Abril Fatface', cursive;
+}
+
+
+h2, 
+p {
+  font-size: 24px;
+  font-family: 'Lato', sans-serif;
+}
+
+ul, 
+ol {
+  font-size: 21px;
+  font-family: 'Lato', sans-serif;
+}
