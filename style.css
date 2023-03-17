@@ -1,0 +1,12 @@
+h1 {
+  text-align: center;
+  font-size: 36px;
+  background-color: rgb(42, 42, 235);
+  color: white;
+  font-family: 'Abril Fatface', cursive;
+}
+
+ul {
+  font-size: 24px;
+  font-family: 'Lato', sans-serif;
+}
